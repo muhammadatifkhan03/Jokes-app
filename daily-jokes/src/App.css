@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: blue;
+  background: linear-gradient(
+      135deg, 
+      rgb(109, 106, 141) 0%,
+      rgb(73, 48, 48) 20%,
+      rgb(22, 61, 73) 30%,
+      rgb(104, 107, 53) 100%
+    );
+}
